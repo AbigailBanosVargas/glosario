@@ -1,0 +1,25 @@
+---
+title: 'Vulkan'
+date: '2025-11-17'
+active: true
+image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Vulkan_logo.svg/960px-Vulkan_logo.svg.png'
+creator: 'Ángel González'
+category: 'software'
+tags:
+    - 'software'
+    - 'bibliotecas'
+    - 'interfaz'
+synonyms:
+    - Aplicación de interfaz gráfica
+translation: 'Vulkan'
+phrase: 'Usa Vulkan en vez de OpenGL como API gráfica para mayor rendimiento.'
+difficulty: 'medio'
+status: 'estable'
+language: 'es'
+related:
+    - 'vulkan'
+    - 'videojuegos'
+    - 'interfaz'
+source: 'https://en.wikipedia.org/wiki/Vulkan'
+---
+Vulkan es una API multiplataforma para el desarrollo de aplicaciones con gráficos 3D, está basado en Mantle y es de código abierto.
